@@ -81,7 +81,7 @@
     "xHandle": "@your-handle",
     "xUrl": "https://x.com/your-handle",
     "emailLabel": "Email",
-    "email": "tour@vibecode.tours",
+    "email": "ai+tour@vibecode.tours",
     "advisorsHeading": "Advisors",
     "advisorsBody": "(Optional — list mentors, technical advisors, past students serving as TAs.)",
     "helpHeading": "Want to help?",
@@ -128,7 +128,7 @@
     "notifyHeading": "To be notified",
     "notifyList": [
       "Watch this site",
-      "Or email tour@vibecode.tours to join the announcement list"
+      "Or email ai+tour@vibecode.tours to join the announcement list"
     ],
     "lookHeading": "What we look for",
     "lookIntro": "(Same scoring criteria we used. Transparency builds trust.)",
@@ -161,7 +161,7 @@
       "Cash for student equipment grants (laptops for students who lack one)",
       "Office hours from senior engineers (1 hr/week)"
     ],
-    "orgContact": "Contact: tour@vibecode.tours with subject \"Sponsor inquiry\".",
+    "orgContact": "Contact: ai+tour@vibecode.tours with subject \"Sponsor inquiry\".",
     "indHeading": "For individuals",
     "indIntro": "If you want to back the Tour at smaller scale:",
     "indList": [
@@ -195,7 +195,7 @@
       { "q": "Do you teach machine learning?", "a": "No. We teach AI-paired CODING. Claude is the AI; you're the coder. We don't teach how to build models — we teach how to ship with them." },
       { "q": "Will there be a Cohort 2?", "a": "If Cohort 1 goes well. Subscribe via the apply page." },
       { "q": "How do I help?", "a": "See the sponsors page for organization-level support or individual donations. Or share this site with one developer who'd benefit." },
-      { "q": "I have a question not answered here.", "a": "Email tour@vibecode.tours." }
+      { "q": "I have a question not answered here.", "a": "Email ai+tour@vibecode.tours." }
     ]
   },
   "contact": {
@@ -203,14 +203,14 @@
     "description": "How to reach Vibe Code Tours: applicant questions, sponsorship, privacy requests, and Code of Conduct reports.",
     "heading": "Contact",
     "applicants": "For applicants + general questions",
-    "applicantsEmail": "tour@vibecode.tours",
+    "applicantsEmail": "ai+tour@vibecode.tours",
     "sponsorship": "For sponsorship",
-    "sponsorshipEmail": "tour@vibecode.tours",
+    "sponsorshipEmail": "ai+tour@vibecode.tours",
     "sponsorshipNote": "with subject \"Sponsor inquiry\"",
     "privacy": "For privacy / data requests",
-    "privacyEmail": "privacy@vibecode.tours",
+    "privacyEmail": "ai+privacy@vibecode.tours",
     "coc": "For Code of Conduct reports",
-    "cocEmail": "conduct@vibecode.tours",
+    "cocEmail": "ai+conduct@vibecode.tours",
     "channelsHeading": "Public channels",
     "github": "GitHub",
     "githubUrl": "https://github.com/vibe-code-tours",

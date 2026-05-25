@@ -96,7 +96,7 @@
     "xHandle": "@your-handle",
     "xUrl": "https://x.com/your-handle",
     "emailLabel": "[MY] Email",
-    "email": "tour@vibecode.tours",
+    "email": "ai+tour@vibecode.tours",
     "advisorsHeading": "[MY] Advisors",
     "advisorsBody": "[MY] (Optional — list mentors, technical advisors, past students serving as TAs.)",
     "helpHeading": "[MY] Want to help?",
@@ -143,7 +143,7 @@
     "notifyHeading": "[MY] To be notified",
     "notifyList": [
       "[MY] Watch this site",
-      "[MY] Or email tour@vibecode.tours to join the announcement list"
+      "[MY] Or email ai+tour@vibecode.tours to join the announcement list"
     ],
     "lookHeading": "[MY] What we look for",
     "lookIntro": "[MY] (Same scoring criteria we used. Transparency builds trust.)",
@@ -176,7 +176,7 @@
       "[MY] Cash for student equipment grants (laptops for students who lack one)",
       "[MY] Office hours from senior engineers (1 hr/week)"
     ],
-    "orgContact": "[MY] Contact: tour@vibecode.tours with subject \"Sponsor inquiry\".",
+    "orgContact": "[MY] Contact: ai+tour@vibecode.tours with subject \"Sponsor inquiry\".",
     "indHeading": "[MY] For individuals",
     "indIntro": "[MY] If you want to back the Tour at smaller scale:",
     "indList": [
@@ -248,7 +248,7 @@
       },
       {
         "q": "[MY] I have a question not answered here.",
-        "a": "[MY] Email tour@vibecode.tours."
+        "a": "[MY] Email ai+tour@vibecode.tours."
       }
     ]
   },
@@ -257,14 +257,14 @@
     "description": "[MY] How to reach Vibe Code Tours: applicant questions, sponsorship, privacy requests, and Code of Conduct reports.",
     "heading": "[MY] Contact",
     "applicants": "[MY] For applicants + general questions",
-    "applicantsEmail": "tour@vibecode.tours",
+    "applicantsEmail": "ai+tour@vibecode.tours",
     "sponsorship": "[MY] For sponsorship",
-    "sponsorshipEmail": "tour@vibecode.tours",
+    "sponsorshipEmail": "ai+tour@vibecode.tours",
     "sponsorshipNote": "[MY] with subject \"Sponsor inquiry\"",
     "privacy": "[MY] For privacy / data requests",
-    "privacyEmail": "privacy@vibecode.tours",
+    "privacyEmail": "ai+privacy@vibecode.tours",
     "coc": "[MY] For Code of Conduct reports",
-    "cocEmail": "conduct@vibecode.tours",
+    "cocEmail": "ai+conduct@vibecode.tours",
     "channelsHeading": "[MY] Public channels",
     "github": "[MY] GitHub",
     "githubUrl": "https://github.com/vibe-code-tours",
