@@ -1,6 +1,6 @@
 ---
 name: Shin Thant Kyaw
-github: shinThantKyaw
+github: shinnThantKyaw
 cohort: 1
 role: builder
 skills: ["JavaScript","React","Nodejs"]
